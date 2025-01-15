@@ -23,3 +23,8 @@ Sebelum menjalankan game ini, pastikan Python dan pustaka Pygame telah terinstal
 Jalankan perintah berikut untuk menginstal Pygame:
 ```bash
 pip install pygame
+
+### Instalasi Pygame
+Jalankan perintah berikut untuk menginstal Pygame:
+```bash
+pip install pygame
