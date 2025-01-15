@@ -37,8 +37,19 @@ python spw.py
 ```
 
 ## 6. Kontrol
-Mouse        : Menggerakkan pesawat.
-Press Any Key: Menembakkan peluru.
-Spasi        : Jeda (Pause).
-Enter        : Memulai game dari layar awal.
-Escape       : Keluar dari game.
+- Mouse        : Menggerakkan pesawat.
+- Press Any Key: Menembakkan peluru.
+- Spasi        : Jeda (Pause).
+- Enter        : Memulai game dari layar awal.
+- Escape       : Keluar dari game.
+
+## 7. Credit
+| Nama                          | NIM          | Kontribusi                             |
+|-------------------------------|--------------|----------------------------------------|
+| Munif Aryaputra               | 22.83.0787   | Menyusun Laporan dan pembuatan program |
+| Muhammad Hidayatullah Ipango  | 22.83.0820   | Referensi dan pembuatan program        |
+| Alif Miftakhul Firdaus        | 22.83.0816   | Isi Baris 3 dan pembuatan program      |
+
+Made With ❤️ with pygame.
+
+© 2025 Kelompok PPL. All rights reserved.
