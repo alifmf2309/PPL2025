@@ -44,12 +44,12 @@ python spw.py
 - Escape       : Keluar dari game.
 
 ## 7. Credit
-| Nama                          | NIM          | Kontribusi                             |
-|-------------------------------|--------------|----------------------------------------|
-| Munif Aryaputra               | 22.83.0787   | Menyusun Laporan dan pembuatan program |
-| Muhammad Hidayatullah Ipango  | 22.83.0820   | Referensi dan pembuatan program        |
-| Alif Miftakhul Firdaus        | 22.83.0816   | Isi Baris 3 dan pembuatan program      |
+| Nama                          | NIM          | Kontribusi                                    |
+|-------------------------------|--------------|-----------------------------------------------|
+| Munif Aryaputra               | 22.83.0787   | Menyusun Laporan dan pembuatan program        |
+| Muhammad Hidayatullah Ipango  | 22.83.0820   | Referensi dan pembuatan program               |
+| Alif Miftakhul Firdaus        | 22.83.0816   | Mengumpulkan asset dan pembuatan program      |
+
 
 Made With ❤️ with pygame.
-
 © 2025 Kelompok PPL. All rights reserved.
