@@ -23,8 +23,22 @@ Sebelum menjalankan game ini, pastikan Python dan pustaka Pygame telah terinstal
 Jalankan perintah berikut untuk menginstal Pygame:
 ```bash
 pip install pygame
+```
 
-### Instalasi Pygame
-Jalankan perintah berikut untuk menginstal Pygame:
+### Cara Menjalankan
+Clone repository ini dengan membuka terminal atau CMD lalu isikan perintah berikut :
 ```bash
-pip install pygame
+git clone https://github.com/alifmf2309/PPL2025.git
+```
+
+Masuk ke direktori project lalu jalankan dengan perintah :
+```bash
+python spw.py
+```
+
+### Kontrol
+Mouse        : Menggerakkan pesawat.
+Press Any Key: Menembakkan peluru.
+Spasi        : Jeda (Pause).
+Enter        : Memulai game dari layar awal.
+Escape       : Keluar dari game.
