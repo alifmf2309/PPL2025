@@ -4,7 +4,7 @@
 
 Space War adalah sebuah game 2D bertema tembak-menembak berbasis **Pygame**, di mana pemain mengendalikan pesawat ruang angkasa untuk melawan musuh dan bertahan hidup selama mungkin. Game ini dilengkapi dengan suara, animasi, dan sistem skor yang dinamis.
 
-## Fitur
+## 1. Fitur
 - Kontrol pesawat menggunakan kursor mouse.
 - Menembak peluru untuk menghancurkan musuh.
 - Animasi ledakan dan efek suara.
@@ -12,20 +12,20 @@ Space War adalah sebuah game 2D bertema tembak-menembak berbasis **Pygame**, di 
 - Mode layar awal, jeda, dan game over.
 - Musik latar dan efek suara interaktif.
 
-## Prasyarat
+## 2. Prasyarat
 Sebelum menjalankan game ini, pastikan Python dan pustaka Pygame telah terinstal di sistem Anda.
 
-### Instalasi Python
+## 3. Instalasi Python
 1. Unduh dan instal Python dari [python.org](https://www.python.org/).
 2. Pastikan Python sudah ditambahkan ke **PATH**.
 
-### Instalasi Pygame
+## 4. Instalasi Pygame
 Jalankan perintah berikut untuk menginstal Pygame:
 ```bash
 pip install pygame
 ```
 
-### Cara Menjalankan
+## 5. Cara Menjalankan
 Clone repository ini dengan membuka terminal atau CMD lalu isikan perintah berikut :
 ```bash
 git clone https://github.com/alifmf2309/PPL2025.git
@@ -36,7 +36,7 @@ Masuk ke direktori project lalu jalankan dengan perintah :
 python spw.py
 ```
 
-### Kontrol
+## 6. Kontrol
 Mouse        : Menggerakkan pesawat.
 Press Any Key: Menembakkan peluru.
 Spasi        : Jeda (Pause).
